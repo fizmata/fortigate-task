@@ -1,0 +1,6 @@
+---
+  - name: Ansoble connection test
+    hosts: all
+    gather_facts: no
+    roles:
+        - test_connection

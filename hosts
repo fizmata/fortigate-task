@@ -1,0 +1,1 @@
+fortigate ansible_host=<fortigate-ip> ansible_ssh_user=<ansible_user>

@@ -1,0 +1,2 @@
+- name: Ansible ping module
+  raw: show system interface port1
