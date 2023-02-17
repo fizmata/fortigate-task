@@ -26,4 +26,4 @@ Important:
 
 If you are configuring any kind of password with ansible use ansible-vault and share vault password in email when turing in the task.
 
-Please turn in the code as a pull request to this repository.
+For submission, please clone this repo and add the files to your own, PRIVATE repository. Invite me(owner of this repo) as a reviewer. Create a new branch, do your solution and create PR to the main, do not merge.
